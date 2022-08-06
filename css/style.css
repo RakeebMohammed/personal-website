@@ -2515,4 +2515,26 @@ width:0%;
 		height: 450px;
 	}
 }
+.contact-rightgrid aa {
+	font-size: 4.5em;
+	color: #fefefe;
+
+  
+  }
+  .contact-rightgrid ab {
+	color: #fac832;
+	font-size: 3.3em;
+	font-weight: 600;
+	  text-transform: capitalize;
+  }
+  .contact-rightgrid p {
+	font-size: 1.3em;
+	color: #fff;
+	line-height: 1.8em;
+	  margin-bottom: 2.2em;
+  }
+.aa{
+ height:30%;
+ width:140px;
+}
 
