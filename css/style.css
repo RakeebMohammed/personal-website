@@ -40,7 +40,7 @@ body{
   font-weight: 400;
 }
 .header{
-	background: url("banner.jpg") no-repeat;
+	background: url("banner.png") no-repeat;
 	background-size: cover;
 	min-height:865px;
 	background-position: 0 -200px;
