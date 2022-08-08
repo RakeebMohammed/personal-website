@@ -2534,8 +2534,11 @@ width:0%;
 	  margin-bottom: 2.2em;
   }
 .aa{
- height:30%;
- width:140px;
+ font-size: larger;
 }
-.
+.bb{
+	background: url("../backi.jpg")no-repeat;
+min-height: 250px;
+background-size: cover;
+}
 
