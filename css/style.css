@@ -2548,4 +2548,21 @@ width:0%;
 }
 .oo{
 	justify-content: center;
+	padding-bottom:10px;
+}
+@media (min-width:320px )
+{
+	.oo img{
+		width:260px;
+		height:140px;
+	margin-left:40px;
+	}
+}
+@media (min-width:330px) and (max-width:375px )
+{
+	.oo img{
+		width:260px;
+		height:140px;
+		
+	}
 }
