@@ -87,7 +87,3 @@ function pblurcheck(){
         }
     }
 }
-function sub(){
-    if{
-     alert("fsaff");}
-}
